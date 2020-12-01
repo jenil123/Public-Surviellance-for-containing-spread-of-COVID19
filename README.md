@@ -18,3 +18,4 @@ D. For test videos I firstly generate points for test videos using pose estimati
 
 E. After that I compare 2 pose using Dynamic Time Warping technique.
 
+The Dataset used here was custom and feel free to get access to the datase.
