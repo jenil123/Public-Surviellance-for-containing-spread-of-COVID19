@@ -5,7 +5,6 @@ The project was divided into 2 parts:
 1. Social Distancing monitor:
 In this module I made a model using YOLOV3 and OpenCV to monitor social distancing both in videos and real-time.
 Here I have also shown Bird's eye view of given frame in order to get a better view of the distance between humans in video.
-
 For realtime change videoCapture('filename) to videoCapture(0) 
 
 2. Spit Detection:
